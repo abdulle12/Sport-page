@@ -123,6 +123,11 @@ h2 {
   .header {
     max-width: 1200px;
     margin: 80px auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:66px ;
+    margin-bottom: 20px;
+    
     border-bottom: 1px solid gray;
     padding-bottom: 40px;
     text-align: center;
@@ -150,7 +155,7 @@ footer {
     max-width: 1200px;
     margin: 50px auto;
     display: grid;
-    gap: 40px;
+    gap: 18px;
 }
 .main p {
     line-height: 27px;
